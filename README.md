@@ -14,6 +14,9 @@
   <img align="center" alt="Diogo-Typescript" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png">
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diogo-Java" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png">
+  <img align="center" alt="Diogo-SpringBoot" height="30" width="40" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MCA4MCI+PGRlZnM+PHN0eWxlPi5ie2ZpbGw6I2ZmZn08L3N0eWxlPjwvZGVmcz48cGF0aCBkPSJNNTcuMTcgNC42SDIyLjgzYTUuNjYgNS42NiAwIDAwLTQuOSAyLjgzTC43NiAzNy4xN2E1LjY3IDUuNjcgMCAwMDAgNS42NmwxNy4xNyAyOS43NGE1LjY2IDUuNjYgMCAwMDQuOSAyLjgzaDM0LjM0YTUuNjYgNS42NiAwIDAwNC45LTIuODNsMTcuMTctMjkuNzRhNS42NyA1LjY3IDAgMDAwLTUuNjZMNjIuMDcgNy40M2E1LjY2IDUuNjYgMCAwMC00LjktMi44M3oiIGZpbGw9IiM2NWE3NDEiLz48cGF0aCBjbGFzcz0iYiIgZD0iTTQwIDQxLjY2YTIuMjYgMi4yNiAwIDAxLTIuMjYtMi4yNlYxNy41N2EyLjI2IDIuMjYgMCAxMTQuNTIgMFYzOS40QTIuMjYgMi4yNiAwIDAxNDAgNDEuNjZ6Ii8+PHBhdGggY2xhc3M9ImIiIGQ9Ik00MCA2MGEyMS4xNSAyMS4xNSAwIDAxLTkuOTUtMzkuODEgMi4yNiAyLjI2IDAgMTEyLjE0IDQgMTYuNjIgMTYuNjIgMCAxMDE1LjYyIDAgMi4yNiAyLjI2IDAgMTEyLjE0LTRBMjEuMTUgMjEuMTUgMCAwMTQwIDYweiIvPjwvc3ZnPg==">
+  <img align="center" alt="Diogo-Angular" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-512.png">
+  <img align="center" alt="Diogo-React" height="30" width="40" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png">
 </div>
   
   ##
